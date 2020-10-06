@@ -2,8 +2,8 @@
   "name": "Standard Repository",
   "identifier": "com.zacharyLineman.standard",
   "url": "https://github.com/ActuallyZach/ThriftShop/blob/master/",
-  "themes": {
-    "Almost Stock": {
+  "themes": [
+      {
       "name": "Almost Stock",
       "bundleIdentifier": "com.zacharyLineman.almoststock",
       "developerName": "Zachary Lineman",
@@ -17,5 +17,5 @@
         "https://github.com/ActuallyZach/ThriftShop/raw/master/Screenshots/Screenshot1.png"
       ]
     }
-  }
+  ]
 }
