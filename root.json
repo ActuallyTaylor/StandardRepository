@@ -2,7 +2,7 @@
   "name": "Standard Repository",
   "identifier": "com.zacharyLineman.standard",
   "url": "https://github.com/ActuallyZach/StandardRepository/blob/master/",
-  "themesPath": "Themes/",
+  "themesPath": "Themes",
   "themes": [
       {
       "name": "Almost Stock",
