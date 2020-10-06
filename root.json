@@ -10,9 +10,8 @@
       "subtitle": "An almost stock Icon pack",
       "version": "1.0",
       "versionDate": "2020-10-6",
-      "versionDescription": "This version is the initial release",
-      "downloadURL": "",
-      "iconURL": "",
+      "description": "This version is the initial release",
+      "downloadURL": "https://github.com/ActuallyZach/ThriftShop/raw/master/com.zacharyLineman.standard.zip",
       "tintColor": "3fab6c",
       "size": 0,
       "screenshotURLs": [
