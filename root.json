@@ -1,0 +1,23 @@
+{
+  "name": "Standard Repository",
+  "identifier": "com.zacharyLineman.standard",
+  "url": "",
+  "themes": {
+    "Almost Stock": {
+      "name": "Almost Stock",
+      "bundleIdentifier": "com.zacharyLineman.almoststock",
+      "developerName": "Zachary Lineman",
+      "subtitle": "An almost stock Icon pack",
+      "version": "1.0",
+      "versionDate": "2020-10-6",
+      "versionDescription": "This version is the initial release",
+      "downloadURL": "",
+      "iconURL": "",
+      "tintColor": "FC2125",
+      "size": 0,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000021-iphone-0.png"
+      ]
+    }
+  }
+}
