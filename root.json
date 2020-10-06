@@ -14,6 +14,7 @@
       "versionDate": "2020-10-6",
       "description": "This version is the initial release",
       "tintColor": "3fab6c",
+      "iconURL":"icon.png",
       "screenshotFiles": [
         "Screenshot1.png"
       ]
