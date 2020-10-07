@@ -2,6 +2,7 @@
   "name": "Standard Repository",
   "identifier": "com.zacharyLineman.standard",
   "url": "https://github.com/ActuallyZach/StandardRepository/raw/master/",
+  "iconURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/icon.png",
   "themes": [
       {
       "name": "Almost Stock",
