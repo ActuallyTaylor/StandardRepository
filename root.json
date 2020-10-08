@@ -6,7 +6,7 @@
   "themes": [
       {
       "name": "Random",
-      "bundleIdentifier": "com.zacharyLineman.almoststock",
+      "bundleIdentifier": "com.zacharyLineman.random",
       "developerName": "Zachary Lineman",
       "subtitle": "A random assortment of icons I made.",
       "version": "1.0",
