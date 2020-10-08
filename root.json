@@ -18,6 +18,19 @@
       "screenshotURLs": [
         "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.zacharyLineman.almoststock/Screenshots/Screenshot1.png"
       ]
+    },
+    {
+      "name": "Felicity",
+      "bundleIdentifier": "com.xandesign.felicity",
+      "developerName": "xerudesign",
+      "subtitle": "An awesome SpringBoard Theme!",
+      "version": "5.3",
+      "versionDate": "2020-3-24,
+      "description": "This version is the initial release",
+      "tintColor": "3fab6c",
+      "iconURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.xandesign.felicity/icon.png",
+      "zipURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.xandesign.felicity/com.xandesign.felicity.zip",
+      "screenshotURLs": []
     }
   ]
 }
