@@ -14,9 +14,9 @@
       "description": "This version is the initial release",
       "tintColor": "3fab6c",
       "iconURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.zacharyLineman.random/icon.png",
-      "variants": [
+      "variants": {
           "Random Icons": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.zacharyLineman.random/com.zacharyLineman.random.zip"
-      ],
+      },
       "zipURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.zacharyLineman.random/com.zacharyLineman.random.zip",
       "screenshotURLs": [
         "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.zacharyLineman.random/Screenshots/Screenshot1.png"
@@ -32,9 +32,9 @@
       "description": "This version is the initial release",
       "tintColor": "3fab6c",
       "iconURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.xandesign.felicity/Icon.png",
-      "variants": [
+      "variants": {
           "Felicity": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.xandesign.felicity/com.xandesign.felicity.zip"
-      ],
+      },
       "zipURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.xandesign.felicity/com.xandesign.felicity.zip",
       "screenshotURLs": []
     },
@@ -48,9 +48,9 @@
       "description": "This version is the initial release",
       "tintColor": "3fab6c",
       "iconURL":"",
-      "variants": [
+      "variants": {
           "Viola White": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.bousrih.violawhite.zip"
-      ],
+      },
       "zipURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.bousrih.violawhite.zip",
       "screenshotURLs": []
     },
@@ -64,12 +64,12 @@
       "description": "This version is the initial release",
       "tintColor": "3fab6c",
       "iconURL":"",
-      "variants": [
+      "variants": {
           "Neon with glow": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-neonglow.zip",
           "Neon": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-neon.zip",
           "White with glow": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-whiteglow.zip",
           "White": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-white.zip"
-      ],
+      },
       "zipURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-neonglow.zip",
       "screenshotURLs": []
     }
