@@ -14,6 +14,9 @@
       "description": "This version is the initial release",
       "tintColor": "3fab6c",
       "iconURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.zacharyLineman.random/icon.png",
+      "variants": [
+          "Random Icons": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.zacharyLineman.random/com.zacharyLineman.random.zip"
+      ],
       "zipURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.zacharyLineman.random/com.zacharyLineman.random.zip",
       "screenshotURLs": [
         "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.zacharyLineman.random/Screenshots/Screenshot1.png"
@@ -25,10 +28,13 @@
       "developerName": "xerudesign",
       "subtitle": "An intense and happy theme.",
       "version": "5.3",
-      "versionDate": "2020-3-24",
+      "versionDate": "2020-03-24",
       "description": "This version is the initial release",
       "tintColor": "3fab6c",
       "iconURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.xandesign.felicity/Icon.png",
+      "variants": [
+          "Felicity": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.xandesign.felicity/com.xandesign.felicity.zip"
+      ],
       "zipURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.xandesign.felicity/com.xandesign.felicity.zip",
       "screenshotURLs": []
     },
@@ -38,12 +44,35 @@
       "developerName": "Bousrih",
       "subtitle": "A simple, modern  & beutiful light iOS theme.",
       "version": "5.3",
-      "versionDate": "2020-3-24",
+      "versionDate": "2020-03-24",
       "description": "This version is the initial release",
       "tintColor": "3fab6c",
       "iconURL":"",
+      "variants": [
+          "Viola White": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.bousrih.violawhite.zip"
+      ],
       "zipURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.bousrih.violawhite.zip",
+      "screenshotURLs": []
+    },
+    {
+      "name": "Limelight",
+      "bundleIdentifier": "com.ramenrepo.limelight",
+      "developerName": "Limelight",
+      "subtitle": "Neon icons for iOS",
+      "version": "1.9.6",
+      "versionDate": "2020-03-24",
+      "description": "This version is the initial release",
+      "tintColor": "3fab6c",
+      "iconURL":"",
+      "variants": [
+          "Neon with glow": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-neonglow.zip",
+          "Neon": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-neon.zip",
+          "White with glow": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-whiteglow.zip",
+          "White": "https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-white.zip"
+      ],
+      "zipURL":"https://github.com/ActuallyZach/StandardRepository/raw/master/Themes/com.bousrih.violawhite/com.ramenrepo.limelight-neonglow.zip",
       "screenshotURLs": []
     }
   ]
 }
+
